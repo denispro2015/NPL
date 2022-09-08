@@ -1,2 +1,3 @@
 # NPL
 new smart-contract
+juno1v9w49rtdpkwxeje8xnx9pnf9z9hyr2e06dh9av
